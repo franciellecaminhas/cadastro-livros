@@ -1,4 +1,4 @@
-package com.senac.trabalhocolaborativo;
+package com.projeto.trabalhopoo;
 
 public class Livros {
     private int codigo;
